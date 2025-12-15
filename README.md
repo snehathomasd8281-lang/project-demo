@@ -1,3 +1,3 @@
 # project-demo
-### Carol updated new file.
+### Carol updated from alice(conflict)
 ### Alice added this introduction section.
