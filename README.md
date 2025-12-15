@@ -1,3 +1,3 @@
 # project-demo
-### Carol updated the documentation section.
+### project updated by carol.
 ### Alice added this introduction section.
