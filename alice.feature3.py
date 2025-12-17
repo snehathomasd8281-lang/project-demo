@@ -1,5 +1,5 @@
-# Carol version
+# alice  version
 def greet():
-    return "Hello from Carol!"
+    return "Hello from alice!"
 
 print(greet())
